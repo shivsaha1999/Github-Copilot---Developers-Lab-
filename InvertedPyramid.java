@@ -8,7 +8,7 @@ public class InvertedPyramid {
             }
 
             for (int k = 1; k <= 2 * i - 1; k++) {
-                System.out.print("a");
+                System.out.print("o");
             }
 
             System.out.println();
